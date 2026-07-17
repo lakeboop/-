@@ -1,0 +1,1 @@
+sudo bash -c 'echo 1 > /sys/devices/system/cpu/cpufreq/boost'

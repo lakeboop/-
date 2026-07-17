@@ -1,0 +1,1 @@
+ros2 launch deptrum-ros-driver-aurora930 aurora930_launch.py
